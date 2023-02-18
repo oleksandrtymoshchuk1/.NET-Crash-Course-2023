@@ -1,0 +1,15 @@
+D:\CSTymoshchuk_1\CSTymoshchuk_1\bin\Debug\net7.0\CSTymoshchuk_1.exe
+D:\CSTymoshchuk_1\CSTymoshchuk_1\bin\Debug\net7.0\CSTymoshchuk_1.deps.json
+D:\CSTymoshchuk_1\CSTymoshchuk_1\bin\Debug\net7.0\CSTymoshchuk_1.runtimeconfig.json
+D:\CSTymoshchuk_1\CSTymoshchuk_1\bin\Debug\net7.0\CSTymoshchuk_1.dll
+D:\CSTymoshchuk_1\CSTymoshchuk_1\bin\Debug\net7.0\CSTymoshchuk_1.pdb
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.csproj.AssemblyReference.cache
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.AssemblyInfoInputs.cache
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.AssemblyInfo.cs
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.csproj.CoreCompileInputs.cache
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.dll
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\refint\CSTymoshchuk_1.dll
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.pdb
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\CSTymoshchuk_1.genruntimeconfig.cache
+D:\CSTymoshchuk_1\CSTymoshchuk_1\obj\Debug\net7.0\ref\CSTymoshchuk_1.dll
